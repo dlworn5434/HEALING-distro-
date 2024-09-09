@@ -188,6 +188,16 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4828,
+            "url": "https://raw.githubusercontent.com/dlworn5434/HEALING-distro-/main/servers/HEALING-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "BSLOriginal_v8.3.zip",
           "name": "BSLOriginal_v8.3.zip",
           "type": "File",
