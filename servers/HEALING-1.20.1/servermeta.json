@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/helios/HEALING/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "HEALING (Minecraft 1.20.1)",
+    "description": "HEALING Running Minecraft 1.20.1 (Fabric v0.15.11)",
+    "icon": "https://raw.githubusercontent.com/dlworn5434/HEALING-distro-/main/%EB%84%A4%EC%8B%9C%20%EB%A1%9C%EA%B3%A0.png",
+    "address": "yeotu.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.15.11"
+  },
+  "untrackedFiles": []
+}
